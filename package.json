@@ -1,0 +1,23 @@
+{
+  "name": "audiofractal",
+  "version": "1.0.0",
+  "description": "Real-time audio-driven fractal art visualization — watch fractals dance to your music",
+  "homepage": "https://github.com/user/audiofractal",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "npx vitest run"
+  },
+  "dependencies": {
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0",
+    "vitest": "^3.0.0"
+  },
+  "keywords": ["fractal", "audio", "visualization", "webgl", "threejs", "creative-coding"],
+  "author": "",
+  "license": "MIT"
+}
