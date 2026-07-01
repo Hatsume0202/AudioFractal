@@ -14,10 +14,18 @@
     "three": "^0.170.0"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "vite": "^6.0.0",
     "vitest": "^3.0.0"
   },
-  "keywords": ["fractal", "audio", "visualization", "webgl", "threejs", "creative-coding"],
+  "keywords": [
+    "fractal",
+    "audio",
+    "visualization",
+    "webgl",
+    "threejs",
+    "creative-coding"
+  ],
   "author": "",
   "license": "MIT"
 }
